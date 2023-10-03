@@ -1,0 +1,72 @@
+<component name="libraryTable">
+  <library name="groovy-4.0.15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/ant-1.10.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/ant-antlr-1.10.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/ant-junit-1.10.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/ant-launcher-1.10.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/commons-cli-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/gpars-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-ant-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-astbuilder-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-cli-commons-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-cli-picocli-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-console-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-contracts-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-datetime-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-dateutil-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-docgenerator-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-ginq-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-groovydoc-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-groovysh-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-jmx-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-json-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-jsr223-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-macro-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-macro-library-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-nio-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-servlet-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-sql-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-swing-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-templates-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-test-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-test-junit5-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-testng-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-toml-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-typecheckers-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-xml-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/groovy-yaml-4.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/ivy-2.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/jackson-annotations-2.15.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/jackson-core-2.15.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/jackson-databind-2.15.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/jackson-dataformat-toml-2.15.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/jackson-dataformat-yaml-2.15.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/jansi-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/javaparser-core-3.25.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/jcommander-1.78.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/jline-2.14.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/jquery-3.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/jsr166y-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/junit-4.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/junit-jupiter-api-5.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/junit-jupiter-engine-5.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/junit-platform-commons-1.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/junit-platform-engine-1.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/junit-platform-launcher-1.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/multiverse-core-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/mxparser-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/opentest4j-1.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/org.abego.treelayout.core-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/qdox-1.12.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/slf4j-api-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/snakeyaml-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/testng-7.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../groovysdk/lib/xstream-1.4.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
